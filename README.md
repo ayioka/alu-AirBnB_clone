@@ -59,4 +59,5 @@ To run a single test file:
 
 $ python3 -m unittest tests/test_console.py
 Authors ✒️
+
 Shem Ayioka s.ayioka@alustudent.com
